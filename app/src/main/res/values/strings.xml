@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dynamic Form</string>
+    <string name="attachments">Attachments %s</string>
+    <string name="required_starric">*</string>
+    <string name="optional_bracket">(Optional)</string>
+    <string name="attachments_limit">Only %s Attachments are allowed</string>
+    <string name="select_any_one">Select any one %s</string>
+    <string name="select_one_or_multiple">Select one or multiple %s</string>
+    <string name="dob">Date of birth</string>
+    <string name="profile_image">Profile image %s</string>
+    <string name="imageview_tagid">tag id</string>
+    <string name="add_s">Change %s</string>
+    <string name="email_is_required">Email Required</string>
+    <string name="err_invalid_email">Invalid email</string>
+    <string name="error_textfield">Enter valid value for %s</string>
+    <string name="select">Select %s</string>
+    <string name="error_profile_image">Select Profile image</string>
+    <string name="error_attachment_images">Select Attachments</string>
+</resources>
